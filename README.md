@@ -20,6 +20,8 @@ Can also be triggered with /th
                     }
 ```
 
+Preview: https://streamable.com/zsnmfp
+
 Credit for original resource:
 https://github.com/rubbertoe98/FiveM-Scripts/TakeHostage/
 
